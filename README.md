@@ -4,11 +4,13 @@ Proyek ini menampilkan beragam percobaan arsitektur dan algoritma Convolitional 
 
 ## 🚀 Sorotan Utama:
 
-    Teknik: Menggunakan teknik computer vision dengan library Pytorch dan OpenCV.
-    Model: Faster RCNN dengan backbone GoogleNet, MobileNet dan ResNet50. YOLO dengan versi 3,5 dan 8.
-    Kinerja: Mencapai prediksi terbaik dengan backbone ResNet50 pada Faster RCNN dan YOLOv8 pada YOLO.
+Teknik    : Menggunakan teknik computer vision dengan library Pytorch dan OpenCV.
 
-Jelajahi kode dan hasil untuk mendapatkan wawasan tentang object detection kelas person!
+Model     : Faster RCNN dengan backbone GoogleNet, MobileNet dan ResNet50. YOLO dengan versi 3,5 dan 8.
+
+Kinerja   : Mencapai prediksi terbaik dengan backbone ResNet50 pada Faster RCNN dan YOLOv8 pada YOLO.
+
+    Jelajahi kode dan hasil untuk mendapatkan wawasan tentang object detection kelas person!
 
 📝 Catatan: Proyek ini merupakan bagian dari Bootcamp Computer Vision oleh Indonesia AI dan dikerjakan secara kolaboratif oleh kelompok CV B -Oppenheimer dan CV D -Alan Turing
 
